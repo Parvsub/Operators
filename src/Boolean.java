@@ -3,12 +3,8 @@ public class Boolean {
     {
         boolean a;
         if (a=true)
-        {
             System.out.println("Good morning");
-        }
         else
-        {
             System.out.println("Good Night");
-        }
     }
 }
